@@ -1,4 +1,4 @@
-### install chromedriver "somehow"
+### install chromedriver
 
 ### sudo apt install python3-virtualenv
 ### virtualenv scrapper
